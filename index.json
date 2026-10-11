@@ -1,0 +1,11 @@
+{
+  "org": "pallets-eco",
+  "repo": "flask-security-3.0",
+  "versions": [
+    {
+      "commit": "b091e7d513301d547a084ad60ae174d89eb89653",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:48:05.093118+00:00"
+    }
+  ]
+}
